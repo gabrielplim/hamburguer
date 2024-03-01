@@ -2,12 +2,12 @@ Montagem do famoso hambúrguer
 
 Colocar os ingredientes na seguinte ordem:
 
+Pão (parte de cima)
 Hambúrguer
-Pão (parte de baixo)
 Alface
 Cebola
 Molho Especial
 Queijo
 Picles
 Hambúrguer
-Pão (parte de cima)
+Pão (parte de baixo)
